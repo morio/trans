@@ -5,7 +5,7 @@ This is a learning project for me. I won't be taking anybody's contributions unt
 Fork if you want to learn compilers too.
 
 Sincerely,
+
 -Morio
 
-CC4, GPL3
-Copyleft 2017 Setechi 
+CC4, GPL3, Copyleft 2017 Setechi 
